@@ -8,7 +8,7 @@
 - db_schema_erd.png - A screenshot of the ERD developed as part of the schema.
 - schema.vuerd.json - The file used in VS Code to develop the ERD and table schema. This file works if you have the ERD Editor extension in VS Code.
 
-## The purpose of this project was to extract data from a CSV of data on crowdfunding projects across the world. 
+## Intent: The purpose of this project was to extract data from a CSV of data on crowdfunding projects across the world. 
 
 # Extract 
 
