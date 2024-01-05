@@ -1,5 +1,13 @@
 # Crowdfunding_ETL
 
+## Table of Contents for Files
+- Resources - CSVs that were created as part of the data transformation process.
+- Screenshots - Screenshots of PGAdmin queries to demonstrate that table schema and data loading were successful.
+- ETL_Mini_Project_QONeal.ipynb - Jupyter Notebook used for data extraction and cleaning, and for exporting our CSVs.
+- crowdfunding_db_schema.sql - The schema used to create tables and establish Primary and Foreign Keys in Postgres
+- db_schema_erd.png - A screenshot of the ERD developed as part of the schema.
+- schema.vuerd.json - The file used in VS Code to develop the ERD and table schema. This file works if you have the ERD Editor extension in VS Code.
+
 ## The purpose of this project was to extract data from a CSV of data on crowdfunding projects across the world. 
 
 # Extract 
