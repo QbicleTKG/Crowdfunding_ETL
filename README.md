@@ -42,13 +42,13 @@ The following four DataFrames, with designated columns, were created:
 
   # Load
 
-  The ERD Editor extension was used in VS Code to develop the Entity Relationship Diagram for our datasets, thereby helping create our database schema (screenshot below).
+  The ERD Editor extension was used in VS Code to develop the Entity Relationship Diagram for our datasets, thereby helping create our database schema (screenshot below). A copy of the screenshot may also be found in the code files.
 
   ![db_schema_erd](https://github.com/QbicleTKG/Crowdfunding_ETL/assets/139186713/66f5b9c0-a3a8-443f-9849-fc0a3b98ef2d)
 
   After developing the schema, the tables were created in PostgreSQL, via PGAdmin.
 
-  Once data was imported from the CSVs we created during the data transformation step of the project, I ran a ```SELECT *``` query to test if the data had properly been imported. Those screenshots to show successful querying can be found below.
+  Once data was imported from the CSVs we created during the data transformation step of the project, I ran a ```SELECT *``` query to test if the data had properly been imported. Those screenshots to show successful querying can be found below. A copy of the screenshots may also be found in the code files.
 
 ![select_all_campaign_query](https://github.com/QbicleTKG/Crowdfunding_ETL/assets/139186713/c93f10cc-9220-4bed-97df-86a51b5ef5e5)
 ![select_all_category_campaign](https://github.com/QbicleTKG/Crowdfunding_ETL/assets/139186713/a001d09d-3de2-4bbe-9ca6-ae58b005babb)
